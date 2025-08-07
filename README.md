@@ -15,12 +15,13 @@ This repository presents an end-to-end data analysis and machine learning projec
 
 ## 🗂️ Project Structure
 
-```bash
+
 ├── Telco-Customer-Churn.csv                # Raw Dataset
 ├── EDA.ipynb                               # Exploratory Data Analysis notebook
 ├── Clustering.ipynb                        # Customer Segmentation using Clustering
 ├── Customer segmentation churn prediction.pdf  # Final report with insights & visuals
 
+---
 
 ## 🔍 Key Highlights
 ✅ Exploratory Data Analysis (EDA)
@@ -46,6 +47,8 @@ Evaluated using:
 - Accuracy, Precision, Recall, F1-Score
 - Confusion Matrix
 
+--- 
+
 ## 💼 Business Insights
 - Customers with fiber optic internet and month-to-month contracts are more likely to churn.
 
@@ -65,6 +68,8 @@ Evaluated using:
 
 - Proactive retention for high-risk customers
 
+---
+
 ## 🧰 Tools & Technologies
 - Python (Pandas, NumPy, Scikit-learn)
 
@@ -73,6 +78,8 @@ Evaluated using:
 - Matplotlib, Seaborn
 
 - Tableau / Power BI (optional for dashboard visualizations)
+
+---
 
 ## 📊 Use Case
 - This project is ideal for telecom providers looking to:
